@@ -1,3 +1,7 @@
+//https://leetcode.com/problems/longest-repeating-character-replacement/description/
+
+
+
 package String;
 
 public class Longest_Repeating_Character_Replacement {
